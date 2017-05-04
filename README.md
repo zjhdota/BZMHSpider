@@ -6,10 +6,10 @@
 
 程序为交互式，需要指定爬取的首页和尾页（范围）
 
-“baozoumanhuagif.py” 此文件为爬取暴走漫画的gif图片
+"baozoumanhuagif.py" 此文件为爬取暴走漫画的gif图片
 爬取过程中会在当前目录下新建个download_gif文件夹，用于存储图片
 
-baozoumanhuajpg.py 此文件为爬取暴走漫画的jpg图片
+"baozoumanhuajpg.py" 此文件为爬取暴走漫画的jpg图片
 爬取过程中会在当前目录下新建个download_jpg文件夹，用于存储图片
 
 # 运行方法 #
