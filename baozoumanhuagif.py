@@ -22,7 +22,7 @@ else:
         url = 'http://baozoumanhua.com/catalogs/gif?page=' + str(i)
         urls.add(url)
 
-# 模拟浏览器
+# 构建请求头
 user_agent = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36'
 headers = {'User-Agent': user_agent}
 
